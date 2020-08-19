@@ -1,5 +1,5 @@
-# Eagletech - chat bot
-It is repository for chat bot: [@Eagletech](https://t.me/Eagletech)
+# Eagletech_bot - chat bot
+It is repository for chat bot: [@Eagletech_bot](https://t.me/Eagletech_bot)
 
 ## What it is?
 This repository can be imported to [Bots.Business](https://bots.business) as a worked chat bot.
